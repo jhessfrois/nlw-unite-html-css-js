@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Unite - Rocketseat" src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1712847888087.webp&w=384&q=75" width="200px" />
+  <img alt="Logo NLW Unite - Rocketseat" src="https://i.imgur.com/rS42Tbo.png" width="200px" />
 </p>
 
 <p align="center">
